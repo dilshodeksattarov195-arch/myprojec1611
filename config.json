@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usercave",
+        "uuid": 14697153,
+        "checksum": "down2"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
